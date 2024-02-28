@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdlib>
-using namespace std; //CHANGE according to assignment :)
+using namespace std; 
 class game{
     int computerGeneratedNumber;
     int userGuessedNumber=0, attempts=1;
